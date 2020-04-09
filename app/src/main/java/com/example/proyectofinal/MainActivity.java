@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    private int nuevo2;
+    private int nuevo;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
