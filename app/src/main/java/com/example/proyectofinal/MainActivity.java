@@ -9,6 +9,8 @@ public class MainActivity extends AppCompatActivity {
     private int nuevo3;
     private int nuevo4;
 
+    public String myStr;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
