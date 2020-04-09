@@ -6,7 +6,6 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    private int nuevo3;
     private int nuevo4;
     private int nuevo5;
     private int nuevo6;
